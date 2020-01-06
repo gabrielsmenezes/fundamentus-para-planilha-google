@@ -10,26 +10,26 @@ Este é um código para extrair do site <a href="http://fundamentus.com.br/">meu
 
 ##Funçes
 
-papel  
-cotacao  
-tipoDeAcao  
-dataUltimaCotacao  
-menorCotacaoNasUltimas52Semanas  
-setor  
-maiorCotacaoNasUltimas52Semanas  
-subSetor  
-valorDeMercado  
-valorDaFirma  
-pl  
-lpa  
-pvp  
-vpa  
-pEbit  
-margBruta  
-margEbit  
-pAtivos  
-margLiquida  
-roic  
-divYield  
-roe  
-crescimentoReceitaLiquida  
+=papel("CÓDIGO DO PAPEL")  
+=cotacao("CÓDIGO DO PAPEL")  
+=tipoDeAcao("CÓDIGO DO PAPEL")  
+=dataUltimaCotacao("CÓDIGO DO PAPEL")  
+=menorCotacaoNasUltimas52Semanas("CÓDIGO DO PAPEL")  
+=setor("CÓDIGO DO PAPEL")  
+=maiorCotacaoNasUltimas52Semanas("CÓDIGO DO PAPEL")  
+=subSetor("CÓDIGO DO PAPEL")  
+=valorDeMercado("CÓDIGO DO PAPEL")  
+=valorDaFirma("CÓDIGO DO PAPEL")  
+=pl("CÓDIGO DO PAPEL")  
+=lpa("CÓDIGO DO PAPEL")  
+=pvp("CÓDIGO DO PAPEL")  
+=vpa("CÓDIGO DO PAPEL")  
+=pEbit("CÓDIGO DO PAPEL")  
+=margBruta("CÓDIGO DO PAPEL")  
+=margEbit("CÓDIGO DO PAPEL")  
+=pAtivos("CÓDIGO DO PAPEL")  
+=margLiquida("CÓDIGO DO PAPEL")  
+=roic("CÓDIGO DO PAPEL")  
+=divYield("CÓDIGO DO PAPEL")  
+=roe("CÓDIGO DO PAPEL")  
+=crescimentoReceitaLiquida("CÓDIGO DO PAPEL")  
