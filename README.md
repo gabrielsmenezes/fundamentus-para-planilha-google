@@ -3,6 +3,6 @@ Este é um código para extrair do site <a href="http://fundamentus.com.br/">meu
 
 ## Tutorial de instalação
 
-1 - Em um planilha aberta, vá barra de navegação superior e clique em 'Ferramentas' depois em 'Editor de Script'.
-2 - Uma outra página será aberta, dentro de "Código.gs" apague todo o conteúdo e cole o conteúdo que está no arquivo deste repositorio chamado "codigo.gs".
-3 - Aperte Ctrl+s para salvar o arquivo e feche a página.
+1 - Em um planilha aberta, vá barra de navegação superior e clique em "Ferramentas" depois em "Editor de Script".  
+2 - Uma outra página será aberta, dentro de "Código.gs" apague todo o conteúdo e cole o conteúdo que está no arquivo deste repositorio chamado "codigo.gs".  
+3 - Aperte Ctrl+s para salvar o arquivo e feche a página.  
