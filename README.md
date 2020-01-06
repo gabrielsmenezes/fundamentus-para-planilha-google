@@ -8,7 +8,7 @@ Este é um código para extrair do site <a href="http://fundamentus.com.br/">meu
 3 - Aperte Ctrl+s para salvar o arquivo e feche a página.  
 4 - Agora é só usar um dos comandos relacionados a informação que deseja    
 
-##Funçes
+## Funçes
 
 =papel("CÓDIGO DO PAPEL")  
 =cotacao("CÓDIGO DO PAPEL")  
